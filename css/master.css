@@ -1,0 +1,24 @@
+#night{
+  background-image: url("../img/night.png");
+}
+#morning{
+  background-image: url("../img/morning.png");
+}
+#afternoon{
+  background-image: url("../img/afternoon.png");
+}
+#evening{
+  background-image: url("../img/night.png");
+}
+
+#tijd {
+  color: white;
+  font-size: 50pt;
+  text-align:center;
+}
+
+#text {
+  color: white;
+  font-size: 50pt;
+  text-align:center;
+}
